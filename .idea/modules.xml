@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/androidRelationalOperators.iml" filepath="$PROJECT_DIR$/androidRelationalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aro/aro.iml" filepath="$PROJECT_DIR$/aro/aro.iml" />
+    </modules>
+  </component>
+</project>
